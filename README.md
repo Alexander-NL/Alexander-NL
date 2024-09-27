@@ -9,7 +9,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   <thead>
     <tr>
       <th width="50%"><a href="https://alexnathan.itch.io/asteroid-paper">Asteroid Paper</a></th>
-      <th width="50%"><a href="https://alexnathan.itch.io/krynlis">Krynlis</a></th>
+      <th width="50%"><a href="">Krynlis</a></th>
     </tr>
   </thead>
   <tbody>
@@ -22,8 +22,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td valign="text-top">TBDtd>
     </tr>
     <tr>
-      <td><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
-      <td><a href="https://alexnathan.itch.io/project-wallrun">Itch Page</a></td>
+      <td><a href="https://alexnathan.itch.io/asteroid-pape">Itch Page</a></td>
+      <td><a href="https://alexnathan.itch.io/krynlis">Itch Page</a></td>
     </tr>
   </tbody>
 </table>
@@ -33,9 +33,26 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/Alexander-NL/Alexander-NL/blob/main/Pong.gif"> Pong </a></th>
-      <th width="50%"><a href="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif"> Project WallRun</a></th>
+      <th width="50%"><a href="https://alexnathan.itch.io/pong"> Pong </a></th>
+      <th width="50%"><a href="https://alexnathan.itch.io/project-wallrun"> Project WallRun</a></th>
     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Pong.gif"/></td>
+      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif"/></td>
+    </tr>
+    <tr>
+      <td valign="text-top">tbd.</td>
+      <td valign="text-top">TBD.</td>
+    </tr>
+    <tr>
+      <td><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
+      <td><a href="https://alexnathan.itch.io/project-wallrun">Itch Page</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 📩 Contact Me
 - **Email**: alexnathan168@gmail.com
