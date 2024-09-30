@@ -34,8 +34,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/calces">Calces ⚙️🦿</a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/into-the-function">Into The Function 💻🃏</a></th>
+      <th width="50%"><a href="https://alexnathan.itch.io/pong">Pong</a></th>
+      <th width="50%"><a href="https://alexnathan.itch.io/project-wallrun">ProjectWallrun<a></th>
     </tr>
   </thead>
   <tbody>
