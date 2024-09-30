@@ -19,8 +19,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/2DSideScroller.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Paper themed 2D Asteroid shooter game with scoring systems and player power up mechanic</td>
-      <td valign="text-top">Krynlis is a Caved theme 2D Movement time attack platformer with the fastest time being stored </td>
+      <td valign="text-top">Randomly generated Asteroid with different Animation and different score, 2 Buff for player giving extra shoot, Post processing: Bloom, Vignette, Film Grain</td>
+      <td valign="text-top">Time attack 2D platformer, dash wall jump mechanic, save fastest time in a Json file and displays it ingame, Post processing: Bloom, Vignette </td>
     </tr>
     <tr>
       <td><a href="https://alexnathan.itch.io/asteroid-paper">Itch Page</a></td>
@@ -44,8 +44,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif" alt="Into the function GIF"/></td>
     </tr>
     <tr>
-      <td valign="text-top">2D Pong with 2Player support.</td>
-      <td valign="text-top">Project Wallrun is a 3D platformer with Movement mechanics like Wallrun, dash, double jump, and more </td>
+      <td valign="text-top">2D Pong with 2 player support, ball changes colour, Post processing: Bloom, Vignette</td>
+      <td valign="text-top">3D movement project with double jump, dash, wallride mechanic, Post processing: Bloom, vignette, shader graph</td>
     </tr>
     <tr>
       <td><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
