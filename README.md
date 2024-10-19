@@ -16,7 +16,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   <tbody>
     <tr>
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/AsteroidPaper.gif"/></td>
-      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/2DSideScroller.gif"/></td>
+      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Krynlis.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">Paper themed Asteroid with randomly generated Asteroid with different Animation and different score, Multiple Buffs for player giving different shooting style if player destroy special asteroid that spawns at certain score milestone, Scoring system and a Highscore saving system using Json file, Post processing includes: Bloom, Vignette, Film Grain</td>
