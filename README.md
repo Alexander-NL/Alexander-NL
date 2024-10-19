@@ -20,7 +20,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
     </tr>
     <tr>
       <td valign="text-top">Paper themed Asteroid with randomly generated Asteroid with different Animation and different score, Multiple Buffs for player giving different shooting style if player destroy special asteroid that spawns at certain score milestone, Scoring system and a Highscore saving system using Json file, Post processing includes: Bloom, Vignette, Film Grain</td>
-      <td valign="text-top">Time attack 2D platformer, dash wall jump mechanic, save fastest time in a Json file and displays it ingame, Post processing: Bloom, Vignette </td>
+      <td valign="text-top">Krynlis is a time attack 2D sidescroller that saves your fastest attempt using a Json file that is displayed in the Menu, The player can Dash, walljump, jump and run. Post processing includes: Bloom, Vignette, Gamma</td>
     </tr>
     <tr>
       <td><a href="https://alexnathan.itch.io/asteroid-paper">Itch Page</a></td>
