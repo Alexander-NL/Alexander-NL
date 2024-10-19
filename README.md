@@ -40,8 +40,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Pong.gif" alt="Calces GIF"/></td>
-      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif" alt="Into the function GIF"/></td>
+      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/NewPong.gif"/></td>
+      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">2D Pong with 2 player support, ball changes colour, Post processing: Bloom, Vignette</td>
