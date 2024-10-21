@@ -19,8 +19,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Krynlis.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Paper themed Asteroid with randomly generated Asteroid with different Animation and different score, Multiple Buffs for player giving different shooting style if player destroy special asteroid that spawns at certain score milestone, Scoring system and a Highscore saving system using Json file, Post processing includes: Bloom, Vignette, Film Grain</td>
-      <td valign="text-top">Krynlis is a time attack 2D sidescroller that saves your fastest attempt using a Json file that is displayed in the Menu, The player can Dash, walljump, jump and run. Post processing includes: Bloom, Vignette, Gamma</td>
+      <td valign="text-top">Paper themed Asteroid with randomly generated Asteroid with different Animation and different score, Multiple Buffs for player giving different shooting style if player destroy special asteroid that spawns at certain score milestone, Scoring system and a Highscore saving system using Json file, Post processing includes: Bloom, Vignette, Film Grain.<a href="https://github.com/Alexander-NL/Asteroid-Paper"> Check the game here.</a></td>
+      <td valign="text-top">Krynlis is a time attack 2D sidescroller that saves your fastest attempt using a Json file that is displayed in the Menu, The player can Dash, walljump, jump and run. Post processing includes: Bloom, Vignette, Gamma. <a href="https://github.com/Alexander-NL/Krynlis"> Check the game here.</a></td>
     </tr>
     <tr>
       <td><a href="https://alexnathan.itch.io/asteroid-paper">Itch Page</a></td>
@@ -44,8 +44,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">2D Pong with 2 player support, Multiplayer support with Netcode and Relay for a multiplayer experience with Join code and Multiplayer room, ball changes colour, Post processing: Bloom, Vignette</td>
-      <td valign="text-top">3D movement project with double jump, dash, wallride mechanic, Post processing: Bloom, vignette, shader graph</td>
+      <td valign="text-top">2D Pong with 2 player support, Multiplayer support with Netcode and Relay for a multiplayer experience with Join code and Multiplayer room, ball changes colour, Post processing: Bloom, Vignette. <a href="https://github.com/Alexander-NL/PONG.final"> Check the game here</td>
+      <td valign="text-top">3D movement project with double jump, dash, wallride mechanic, Post processing: Bloom, vignette, shader graph. <a href="https://github.com/Alexander-NL/ProjectWallRun"> Check the game here</td>
     </tr>
     <tr>
       <td><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
