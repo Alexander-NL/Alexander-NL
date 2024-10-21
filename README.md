@@ -44,7 +44,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">2D Pong with 2 player support, ball changes colour, Post processing: Bloom, Vignette</td>
+      <td valign="text-top">2D Pong with 2 player support, Multiplayer support with Netcode and Relay for a multiplayer experience with Join code and Multiplayer room, ball changes colour, Post processing: Bloom, Vignette</td>
       <td valign="text-top">3D movement project with double jump, dash, wallride mechanic, Post processing: Bloom, vignette, shader graph</td>
     </tr>
     <tr>
