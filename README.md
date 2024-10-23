@@ -44,7 +44,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">2D Pong with 2 player support, Multiplayer support with Netcode and Relay for a multiplayer experience with Join code and Multiplayer room, ball changes colour, Post processing: Bloom, Vignette. <a href="https://github.com/Alexander-NL/PONG.final"> Check Github here</td>
+      <td valign="text-top">Multi-Pong is a 2D pong game that uses Relay and Netcode Unity package so it can have Multiplayer LAN support (up to 2 players). You can Host lobby or Join other people lobby by inputing a randomized 6 letter code. post processing includes: Bloom, Vignette. <a href="https://github.com/Alexander-NL/PONG.final"> Check Github here</td>
       <td valign="text-top">3D movement project with double jump, dash, wallride mechanic, Post processing: Bloom, vignette, shader graph. <a href="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here</td>
     </tr>
     <tr>
