@@ -53,11 +53,11 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
     </tr>
     <tr>
       <td align="center"><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
-      <td align="center"><a href="https://alexnathan.itch.io/project-wallrun">Itch Page <br>
+      <td align="center"><a href="https://alexnathan.itch.io/project-wallrun">Itch Page</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Alexander-NL/PONG.final"> Check Github here</td>
-      <td align="center"><a herf="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here </a></td>
+      <td align="center"><a href="https://github.com/Alexander-NL/PONG.final"> Check Github here </a></td>
+      <td align="center"><a href="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here </a></td>
     </tr>
   </tbody>
 </table>
