@@ -76,7 +76,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
     </tr>
     <tr>
       <td valign="text-top">Multi-Pong is a 2D pong game that uses Relay and Netcode Unity package so it can have Multiplayer LAN support (up to 2 players). You can Host lobby or Join other people lobby by inputing a randomized 6 letter code. post processing includes: Bloom, Vignette.</td>
-      <td valign="text-top"> In progress </td>
+      <td valign="text-top"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
