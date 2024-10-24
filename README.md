@@ -19,12 +19,16 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Krynlis.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Paper themed Asteroid with randomly generated Asteroid with different Animation and different score, Multiple Buffs for player giving different shooting style if player destroy special asteroid that spawns at certain score milestone, Scoring system and a Highscore saving system using Json file, Post processing includes: Bloom, Vignette, Film Grain.<a href="https://github.com/Alexander-NL/Asteroid-Paper"> Check Github here.</a></td>
-      <td valign="text-top">Krynlis is a time attack 2D sidescroller that saves your fastest attempt using a Json file that is displayed in the Menu, The player can Dash, walljump, jump and run. Post processing includes: Bloom, Vignette, Gamma. <a href="https://github.com/Alexander-NL/Krynlis"> Check Github here</a></td>
+      <td valign="text-top">Paper themed Asteroid with randomly generated Asteroid with different Animation and different score, Multiple Buffs for player giving different shooting style if player destroy special asteroid that spawns at certain score milestone, Scoring system and a Highscore saving system using Json file, Post processing includes: Bloom, Vignette, Film Grain.</td>
+      <td valign="text-top">Krynlis is a time attack 2D sidescroller that saves your fastest attempt using a Json file that is displayed in the Menu, The player can Dash, walljump, jump and run. Post processing includes: Bloom, Vignette, Gamma. </td>
     </tr>
     <tr>
-      <td><a href="https://alexnathan.itch.io/asteroid-paper">Itch Page</a></td>
-      <td><a href="https://alexnathan.itch.io/krynlis">Itch Page</a></td>
+      <td align="center"><a href="https://alexnathan.itch.io/asteroid-paper">Itch Page</a></td>
+      <td align="center"><a href="https://alexnathan.itch.io/krynlis">Itch Page</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Alexander-NL/Asteroid-Paper"> Check Github here.</a></td>
+      <td align="center"><a href="https://github.com/Alexander-NL/Krynlis"> Check Github here</a></td>
     </tr>
   </tbody>
 </table>
@@ -44,14 +48,16 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Multi-Pong is a 2D pong game that uses Relay and Netcode Unity package so it can have Multiplayer LAN support (up to 2 players). You can Host lobby or Join other people lobby by inputing a randomized 6 letter code. post processing includes: Bloom, Vignette. <a href="https://github.com/Alexander-NL/PONG.final"> Check Github here</td>
+      <td valign="text-top">Multi-Pong is a 2D pong game that uses Relay and Netcode Unity package so it can have Multiplayer LAN support (up to 2 players). You can Host lobby or Join other people lobby by inputing a randomized 6 letter code. post processing includes: Bloom, Vignette.</td>
       <td valign="text-top">3D movement project with double jump, dash, wallride mechanic, Post processing: Bloom, vignette, shader graph.</td>
     </tr>
     <tr>
-      <td><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
-      <td><a href="https://alexnathan.itch.io/project-wallrun">Itch Page </a> <br> <a herf="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here</a></td>
-      
-      
+      <td align="center"><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
+      <td align="center"><a href="https://alexnathan.itch.io/project-wallrun">Itch Page <br>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Alexander-NL/PONG.final"> Check Github here</td>
+      <td align="center"><a herf="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here </a></td>
     </tr>
   </tbody>
 </table>
