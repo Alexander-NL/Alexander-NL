@@ -49,8 +49,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
     </tr>
     <tr>
       <td><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
-      <td><a href="https://alexnathan.itch.io/project-wallrun">Itch Page <br>
-      <a herf="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here</a> </a></td>
+      <td><a href="https://alexnathan.itch.io/project-wallrun">Itch Page </a> <br> <a herf="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here</a></td>
       
       
     </tr>
