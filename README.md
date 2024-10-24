@@ -66,7 +66,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   <thead>
     <tr>
       <th width="50%"><a href="https://alexnathan.itch.io/pong">Multi-Pong</a></th>
-      <th width="50%"><a href=" ">In Progress<a></th>
+      <th width="50%"><a href=" "><a></th>
     </tr>
   </thead>
   <tbody>
