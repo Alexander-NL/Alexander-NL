@@ -45,11 +45,14 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
     </tr>
     <tr>
       <td valign="text-top">Multi-Pong is a 2D pong game that uses Relay and Netcode Unity package so it can have Multiplayer LAN support (up to 2 players). You can Host lobby or Join other people lobby by inputing a randomized 6 letter code. post processing includes: Bloom, Vignette. <a href="https://github.com/Alexander-NL/PONG.final"> Check Github here</td>
-      <td valign="text-top">3D movement project with double jump, dash, wallride mechanic, Post processing: Bloom, vignette, shader graph. <a href="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here</td>
+      <td valign="text-top">3D movement project with double jump, dash, wallride mechanic, Post processing: Bloom, vignette, shader graph.</td>
     </tr>
     <tr>
       <td><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
-      <td><a href="https://alexnathan.itch.io/project-wallrun">Itch Page</a></td>
+      <td><a href="https://alexnathan.itch.io/project-wallrun">Itch Page <br>
+      <a herf="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here</a> </a></td>
+      
+      
     </tr>
   </tbody>
 </table>
