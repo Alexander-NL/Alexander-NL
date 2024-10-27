@@ -56,7 +56,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td align="center"><a href="https://alexnathan.itch.io/project-wallrun">Itch Page</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/TowerDefense/tree/master"> Check Github here </a></td>
+      <td align="center"><a href="https://github.com/fajarnadril/TowerDefense/tree/AlexVersion"> Check Github here </a></td>
       <td align="center"><a href="https://github.com/Alexander-NL/ProjectWallRun"> Check Github here </a></td>
     </tr>
   </tbody>
