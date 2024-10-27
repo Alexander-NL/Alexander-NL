@@ -44,7 +44,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   </thead>
   <tbody>
     <tr>
-      <td><img src=" "/></td>
+      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Tower-Def.gif"/></td>
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/3Dplatformer.gif"/></td>
     </tr>
     <tr>
