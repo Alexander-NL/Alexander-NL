@@ -66,25 +66,25 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   <thead>
     <tr>
       <th width="50%"><a href="https://alexnathan.itch.io/pong">Multiplayer: Multi-Pong</a></th>
-      <th width="50%"><a href=" "><a></th>
+      <th width="50%"><a href="https://alexnathan.itch.io/glitched">2D TopDown: Glitched<a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/NewPong.gif"/></td>
-      <td><img src=" "/></td>
+      <td><img src=""/></td>
     </tr>
     <tr>
       <td valign="text-top">Multi-Pong is a 2D pong game that uses Relay and Netcode Unity package so it can have Multiplayer LAN support (up to 2 players). You can Host lobby or Join other people lobby by inputing a randomized 6 letter code. post processing includes: Bloom, Vignette.</td>
-      <td valign="text-top"> </td>
+      <td valign="text-top">Glitched is a fast-paced 2D top-down action-adventure, souls-like game set in a dystopian future where a failed dimensional experiment has glitched reality. Game uses state machine for animations and has combo attack mechanic. post processing includes: Bloom, Vignette, Film Grain </td>
     </tr>
     <tr>
       <td align="center"><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
-      <td align="center"><a href=" ">Itch Page</a></td>
+      <td align="center"><a href="https://alexnathan.itch.io/glitched">Itch Page</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Alexander-NL/PONG.final"> Check Github here </a></td>
-      <td align="center"><a href=" "> Check Github here </a></td>
+      <td align="center"><a href="https://github.com/Alexander-NL/Glitched"> Check Github here </a></td>
     </tr>
   </tbody>
 </table>
