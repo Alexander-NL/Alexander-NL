@@ -8,27 +8,27 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href=" ">Go-Block</a></th>
-      <th width="50%"><a href="https://alexnathan.itch.io/krynlis">Krynlis</a></th>
+      <th width="50%"><a href=" ">Tower Defense: Go-Block</a></th>
+      <th width="50%"><a href="https://brynkkk.itch.io/frameguard">Rail shooter: Frameguard</a></th>
     </tr>
     
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Tower-Def.gif"/></td>
-      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Krynlis.gif"/></td>
+      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Frameguard.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">Go-Block is a 3D Tower defense game that has 2 unique maps and have Infinite waves of enemies and 2 towers that has different value and strength opening up different strategies by using `TowerTargetting.cs` and `TowerBehaviour.cs`. Killing enemies gives money which can be used to buy more Towers. Post processing includes: Bloom, Vignette, Colour Adjustment, Gamma.</td>
-      <td valign="text-top">Krynlis is a time attack 2D sidescroller that saves your fastest attempt using a Json file that is displayed in the Menu, The player can Dash, walljump, jump and run. Post processing includes: Bloom, Vignette, Gamma. </td>
+      <td valign="text-top">Frameguard is a 2D pixel art rail shooter for Gemastik 2025 uses cinemachine for screen shake effect when shooting. post processing includes: Bloom, Vignette </td>
     </tr>
     <tr>
       <th width="50%"><a href=" ">Itch Page</a></th>
-      <td align="center"><a href="https://alexnathan.itch.io/krynlis">Itch Page</a></td>
+      <td align="center"><a href="https://brynkkk.itch.io/frameguard">Itch Page</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/TowerDefense/tree/master"> Check Github here </a></td>
-      <td align="center"><a href="https://github.com/Alexander-NL/Krynlis"> Check Github here</a></td>
+      <td align="center"><a href="https://github.com/Alexander-NL/FRAMEGUARD"> Check Github here </a></td>
     </tr>
   </tbody>
 </table>
@@ -66,25 +66,25 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   <thead>
     <tr>
       <th width="50%"><a href="https://alexnathan.itch.io/pong">Multiplayer: Multi-Pong</a></th>
-      <th width="50%"><a href="https://alexnathan.itch.io/glitched">2D TopDown: Glitched<a></th>
+      <th width="50%"><a href="https://alexnathan.itch.io/krynlis">Krynlis</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/NewPong.gif"/></td>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Krynlis.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">Multi-Pong is a 2D pong game that uses Relay and Netcode Unity package so it can have Multiplayer LAN support (up to 2 players). You can Host lobby or Join other people lobby by inputing a randomized 6 letter code. post processing includes: Bloom, Vignette.</td>
-      <td valign="text-top">Glitched is a fast-paced 2D top-down action-adventure, souls-like game set in a dystopian future where a failed dimensional experiment has glitched reality. Game uses state machine for animations and has combo attack mechanic. post processing includes: Bloom, Vignette, Film Grain </td>
+      <td valign="text-top">Krynlis is a time attack 2D sidescroller that saves your fastest attempt using a Json file that is displayed in the Menu, The player can Dash, walljump, jump and run. Post processing includes: Bloom, Vignette, Gamma. </td>
     </tr>
     <tr>
       <td align="center"><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
-      <td align="center"><a href="https://alexnathan.itch.io/glitched">Itch Page</a></td>
+      <td align="center"><a href="https://alexnathan.itch.io/krynlis">Itch Page</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Alexander-NL/PONG.final"> Check Github here </a></td>
-      <td align="center"><a href="https://github.com/Alexander-NL/Glitched"> Check Github here </a></td>
+      <td align="center"><a href="https://github.com/Alexander-NL/Krynlis"> Check Github here</a></td>
     </tr>
   </tbody>
 </table>
