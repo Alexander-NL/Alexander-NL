@@ -18,8 +18,16 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td align="center"><img src=""/></td>
     </tr>
     <tr>
-      <td valign="text-top">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
-      <td valign="text-top">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
+      <td valign="text-top"><div>2D top-down action-puzzle stealth game which has current features.
+      </div>
+        <ol>
+          <li>Card-based abilities</li>
+          <li>Stealth-focused gameplay</li>
+          <li>Basic enemy AI</li>
+          <li>Early-stage level design</li>
+        </ol>
+      </td>
+      <td valign="text-top">2D brewing game for GAMEJAM+.</td>
     </tr>
     <tr>
       <td align="center"><a href="https://team-trialnerror.itch.io/project-heist">Itch Page</a></td>
