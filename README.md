@@ -14,8 +14,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   </thead>
   <tbody>
     <tr>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
+      <td align="center"><img src=""/></td>
+      <td align="center"><img src=""/></td>
     </tr>
     <tr>
       <td valign="text-top">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
@@ -42,8 +42,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Tower-Def.gif"/></td>
-      <td><img src=""/></td>
+      <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Tower-Def.gif"/></td>
+      <td align="center"><img src=""/></td>
     </tr>
     <tr>
       <td valign="text-top">Go-Block is a 3D Tower defense game that has 2 unique maps and have Infinite waves of enemies and 2 towers that has different value and strength opening up different strategies by using `TowerTargetting.cs` and `TowerBehaviour.cs`. Killing enemies gives money which can be used to buy more Towers. Post processing includes: Bloom, Vignette, Colour Adjustment, Gamma.</td>
@@ -69,8 +69,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/NewPong.gif"/></td>
-      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Famera.gif"/></td>
+      <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/NewPong.gif"/></td>
+      <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Famera.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">Multi-Pong is a 2D pong game that uses Relay and Netcode Unity package so it can have Multiplayer LAN support (up to 2 players). You can Host lobby or Join other people lobby by inputing a randomized 6 letter code. post processing includes: Bloom, Vignette.</td>
