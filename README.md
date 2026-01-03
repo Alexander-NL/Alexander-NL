@@ -14,8 +14,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src=""/></td>
-      <td align="center"><img src=""/></td>
+      <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Project%20Heist.gif"/></td>
+      <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Mewbrew.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top"><div>2D top-down action-puzzle stealth game which has current features.
