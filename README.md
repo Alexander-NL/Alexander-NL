@@ -50,7 +50,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Tower-Def.gif"/></td>
+      <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Go-Block.gif"/></td>
       <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/BakaNoHero.gif"/></td>
     </tr>
     <tr>
