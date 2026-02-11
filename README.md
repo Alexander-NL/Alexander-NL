@@ -18,16 +18,9 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Mewbrew.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top"><div>Project Heist is a 2D top-down action-puzzle stealth game which has current features.
-      </div>
-        <ol>
-          <li>Card-based abilities</li>
-          <li>Stealth-focused gameplay</li>
-          <li>Basic enemy AI</li>
-          <li>Early-stage level design</li>
-        </ol>
+      <td valign="text-top"><div>Project Heist is a 2D top-down stealth focused action-puzzle stealth game that has Card-based abilities player can use. Game includes features such as Basic enemy AI and player backstabbing enemy mechanic. Puzzle includes 5 digit code puzzle with clues in the map and a lockpicking minigame.
       </td>
-      <td valign="text-top">2D brewing game for GAMEJAM+.</td>
+      <td valign="text-top">Mewraclebrew is a 2D brewing game for GAMEJAM+. Player can make drinks that suit to solving the customers problem from conversations. Player has multiple recipes to choose from and mix, once finished it will display a 3D version of the drink before serving to NPC customers.</td>
     </tr>
     <tr>
       <td align="center"><a href="https://team-trialnerror.itch.io/project-heist">Itch Page</a></td>
@@ -54,8 +47,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/BakaNoHero.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Go-Block is a 3D Tower defense game that has 2 unique maps and have set ammount of waves of enemies and 2 towers that has different value and strength opening up different strategies by using `TowerTargetting.cs` and `TowerBehaviour.cs`. Killing enemies and selling currently used towers gives money which can be used to buy more Towers. Post processing includes: Bloom, Vignette, Colour Adjustment, Gamma.</td>
-      <td valign="text-top">TOP 20 Gimersia. 2D Rage Game</td>
+      <td valign="text-top">Go-Block is a 3D Tower defense game that has 2 unique maps and have set ammount of waves of enemies and 2 towers that has different value and strength opening up different strategies by using `TowerTargetting.cs` and `TowerBehaviour.cs`. Killing enemies and selling currently used towers gives money which can be used to buy more Towers.</td>
+      <td valign="text-top">Baka no Hero is a 2D Rage Game which players controls the cursor that can slaps the hero and changes the direction of the hero. Player must help hero navigate the dungeon and defeat the boss. Baka no Hero reached TOP 20 in Gimersia.</td>
     </tr>
     <tr>
       <th width="50%">Currently No Itch Page</a></th>
