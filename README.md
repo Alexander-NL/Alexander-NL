@@ -18,7 +18,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Mewbrew.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top"><div>2D top-down action-puzzle stealth game which has current features.
+      <td valign="text-top"><div>Project Heist is a 2D top-down action-puzzle stealth game which has current features.
       </div>
         <ol>
           <li>Card-based abilities</li>
@@ -54,7 +54,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/BakaNoHero.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Go-Block is a 3D Tower defense game that has 2 unique maps and have Infinite waves of enemies and 2 towers that has different value and strength opening up different strategies by using `TowerTargetting.cs` and `TowerBehaviour.cs`. Killing enemies gives money which can be used to buy more Towers. Post processing includes: Bloom, Vignette, Colour Adjustment, Gamma.</td>
+      <td valign="text-top">Go-Block is a 3D Tower defense game that has 2 unique maps and have set ammount of waves of enemies and 2 towers that has different value and strength opening up different strategies by using `TowerTargetting.cs` and `TowerBehaviour.cs`. Killing enemies and selling currently used towers gives money which can be used to buy more Towers. Post processing includes: Bloom, Vignette, Colour Adjustment, Gamma.</td>
       <td valign="text-top">TOP 20 Gimersia. 2D Rage Game</td>
     </tr>
     <tr>
