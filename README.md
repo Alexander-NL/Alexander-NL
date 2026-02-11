@@ -47,7 +47,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/BakaNoHero.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Go-Block is a 3D Tower defense game that has 2 unique maps and have set ammount of waves of enemies and 2 towers that has different value and strength opening up different strategies by using `TowerTargetting.cs` and `TowerBehaviour.cs`. Killing enemies and selling currently used towers gives money which can be used to buy more Towers.</td>
+      <td valign="text-top">Go-Block is a 3D Tower defense game that has 2 unique maps and have set ammount of waves of enemies and 2 towers that has different value and strength opening up different strategies. Killing enemies and selling currently used towers gives money which can be used to buy more Towers.</td>
       <td valign="text-top">Baka no Hero is a 2D Rage Game which players controls the cursor that can slaps the hero and changes the direction of the hero. Player must help hero navigate the dungeon and defeat the boss. Baka no Hero reached TOP 20 in Gimersia.</td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
     </tr>
     <tr>
       <td valign="text-top">Multi-Pong is a 2D pong game that uses Relay and Netcode Unity package so it can have Multiplayer LAN support (up to 2 players). You can Host lobby or Join other people lobby by inputing a randomized 6 letter code. post processing includes: Bloom, Vignette.</td>
-      <td valign="text-top">2.5D Collaboration between LOGIC and ExtraLife Entertainment</td>
+      <td valign="text-top">Famera is a 2.5D isometric game that was a Collaboration between LOGIC and ExtraLife Entertainment. Player can attack and dodge. Game puzzle includes door switch which players must attack the switch to activate.</td>
     </tr>
     <tr>
       <td align="center"><a href="https://alexnathan.itch.io/pong">Itch Page</a></td>
