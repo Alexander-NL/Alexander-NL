@@ -18,7 +18,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td align="center"><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/Mewbrew.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top"><div>Project Heist is a 2D top-down stealth focused action-puzzle stealth game that has Card-based abilities player can use. Game includes features such as Basic enemy AI and player backstabbing enemy mechanic. Puzzle includes 5 digit code puzzle with clues in the map and a lockpicking minigame.
+      <td valign="text-top"><div>Project Heist is a 2D top-down stealth focused action-puzzle stealth game that has Card-based abilities player can use. Game includes features such as Basic enemy AI and player backstabbing enemy mechanic. Puzzle includes 5 digit code puzzle with clues in the map and a lockpicking minigame. Enemy patrol behavior uses NavMesh Agent with raycast for line of sight.
       </td>
       <td valign="text-top">Mewraclebrew is a 2D brewing game for GAMEJAM+. Player can make drinks that suit to solving the customers problem from conversations. Player has multiple recipes to choose from and mix, once finished it will display a 3D version of the drink before serving to NPC customers.</td>
     </tr>
