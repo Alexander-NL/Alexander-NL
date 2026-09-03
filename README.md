@@ -9,7 +9,7 @@ Nice to meet you! I'm a Binus University graduate with a degree in Game Applicat
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/Alexander-NL/Project-Heist">Project Heist</a></th>
-      <th width="50%"><a href="">Mewraclè Brew</a></th>
+      <th width="50%"><a href="https://store.steampowered.com/app/4729420/Mewracle_Brew/">Mewraclè Brew</a></th>
     </tr>
   </thead>
   <tbody>
