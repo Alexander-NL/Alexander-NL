@@ -1,6 +1,6 @@
 # Hi, I'm Alexander Nathanael Lubis 👋
 ---
-Nice to meet you! I'm currently a student at Binus University, majoring in Game Application and Technology. i am very passionate about game development and always eager to expand my programming skill set and take on new challenges. </br>.
+Nice to meet you! I'm a Binus University graduate with a degree in Game Application and Technology. Having completed my studies, I'm now fully focused on pushing my game development skills further. i am very passionate about game development and always eager to expand my programming skill set and take on new challenges. </br>.
 
 *All the GIFs are linked to their respective itch.io page*
 
@@ -20,7 +20,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
     <tr>
       <td valign="text-top"><div>Project Heist is a 2D top-down stealth focused action-puzzle stealth game that has Card-based abilities player can use. Game includes features such as Basic enemy AI and player backstabbing enemy mechanic. Puzzle includes 5 digit code puzzle with clues in the map and a lockpicking minigame. Enemy patrol behavior uses NavMesh Agent with raycast for line of sight.
       </td>
-      <td valign="text-top">Mewraclebrew is a 2D brewing game for GAMEJAM+. Player can make drinks that suit to solving the customers problem from conversations. Player has multiple recipes to choose from and mix, once finished it will display a 3D version of the drink before serving to NPC customers.</td>
+      <td valign="text-top">Mewraclebrew is a 2D brewing game. Player can make drinks that suit to solving the customers problem from conversations. Player has multiple recipes to choose from and mix, once finished it will display a 3D version of the drink before serving to NPC customers.</td>
     </tr>
     <tr>
       <td align="center"><a href="https://team-trialnerror.itch.io/project-heist">Itch Page</a></td>
