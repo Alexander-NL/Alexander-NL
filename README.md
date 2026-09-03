@@ -90,4 +90,3 @@ Nice to meet you! I'm a Binus University graduate with a degree in Game Applicat
 
 ## 📩 Contact Me
 - **Email**: alexnathan168@gmail.com
-- **WhatsApp**: 089526063999
